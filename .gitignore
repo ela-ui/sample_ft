@@ -1,0 +1,4 @@
+pip install streamlit python-dotenv
+
+STREAMLIT_USERNAME=admin
+STREAMLIT_PASSWORD=securepassword123
